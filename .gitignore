@@ -1,0 +1,9 @@
+Data/*
+Graphs/*
+Output/*
+Spreadsheets/*
+!.gitkeep
+.Rhistory
+.Rdata
+.Rapp.history
+.DS_Store
